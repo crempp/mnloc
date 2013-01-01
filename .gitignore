@@ -1,0 +1,16 @@
+log/*.err
+log/*.log
+data/*
+!data/empty.txt
+*~
+tmp/*
+!tmp/empty.txt
+
+# eclipse
+.buildpath
+.project
+.settings/
+
+#netbeans
+nbproject
+
